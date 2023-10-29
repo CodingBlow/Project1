@@ -19,11 +19,11 @@
 
     > h1 {
       font: 400 6rem $text1;
-      color: $first;
+      color: $dark;
     }
     > p {
       font: 900 1rem $text1;
-      color: $first;
+      color: $dark;
     }
   }
 
@@ -34,7 +34,7 @@
     position: absolute;
     background: no-repeat;
     background: center/auto;
-    background-image: url("../assets/1.png");
+    background-image: url("../assets/5.jpg");
     filter: blur(2px);
     border-radius: 0 0 200px 200px;
   }
